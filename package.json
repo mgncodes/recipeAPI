@@ -1,0 +1,15 @@
+{
+  "name": "recipeapi",
+  "version": "1.0.0",
+  "description": "know about tasty recipes",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon ./server.js localhost 8080"
+  },
+  "author": "mgn",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
+

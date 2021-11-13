@@ -1,0 +1,32 @@
+[
+    {
+        "recipeId": 1,
+        "recipeName": "cold-coffee",
+        "makingTime": "10mins",
+        "recipeType": "beverage"
+    },
+    {
+        "recipeId": 2,
+        "recipeName": "hot-chocolate",
+        "makingTime": "15mins",
+        "recipeType": "beverage"
+    },
+    {
+        "recipeId": 3,
+        "recipeName": "pasta",
+        "makingTime": "20mins",
+        "recipeType": "continental"
+    },
+    {
+        "recipeId": 4,
+        "recipeName": "briyani",
+        "makingTime": "40mins",
+        "recipeType": "main-course"
+    },
+    {
+        "recipeId": 5,
+        "recipeName": "cookies",
+        "makingTime": "30mins",
+        "recipeType": "snacks"
+    }
+]
